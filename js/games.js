@@ -1,4 +1,3 @@
-
 import { Details } from "./details.js";
 import { UiHome } from "./uiModules.js";
 
